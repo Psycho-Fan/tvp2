@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:190,video
+https://rexmc.pl/TVP_2/tracks-v1/index.fmp4.m3u8
+
+#EXT-X-ENDLIST
